@@ -1,2 +1,2 @@
 # bank_service
-Backend Master Class [Golang + Postgres + Docker + gRPC]
+Bank Service [Golang + Postgres + Docker + gRPC]
